@@ -1,3 +1,6 @@
+//Table Manipulation.
+//Find the largest and smallest element in an array.
+
 let arr = [6, 10, 2, 4];
 let small = arr[0];
 let big = arr[0];
